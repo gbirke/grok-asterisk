@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/jordansissel/ruby-grok
+  revision: 05e07494125fce3dbfd27576b3b0e729bf7cbb7f
+  specs:
+    jls-grok (0.10.7)
+      cabin (~> 0.4.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cabin (0.4.4)
+      json
+    json (1.7.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jls-grok!

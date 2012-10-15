@@ -2,6 +2,8 @@
 # where no grok pattern was found. This is for developing new patterns
 
 require 'rubygems'
+require 'bundler/setup'
+
 require 'grok-pure'
 require 'pp'
 require 'benchmark'
